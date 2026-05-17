@@ -1,0 +1,16 @@
+# codex-bridge runtime artifacts (per-project bundle directory)
+.codex-bridge/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup / temp
+*.bak
+*.tmp
